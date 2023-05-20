@@ -1,4 +1,3 @@
-# learn-data-structure
-Data structure projects
+# Data Structure and Algorithm Practice
 
-Contains programs demonstrating operations of different data structure.
+Contains programs demonstrating operations of different data structures and algorithms
